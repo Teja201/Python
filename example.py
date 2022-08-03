@@ -1,4 +1,4 @@
-# ** SEARCH ** PROGRAM
+
 import re
 txt = "Python is on of the most popular languages"
 searchobj = re.search("\s",txt)
